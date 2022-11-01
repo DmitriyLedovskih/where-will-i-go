@@ -1,0 +1,21 @@
+.header__menu-link {
+  text-decoration: none;
+  color: #010101;
+  position: relative;
+}
+
+.header__menu-link::before {
+  content: '';
+  width: 100%;
+  height: 2px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  transition: transform .5s;
+  transform: scaleX(0);
+  background-color: #010101;
+}
+
+.header__menu-link:hover::before {
+  transform: scaleX(1);
+}
