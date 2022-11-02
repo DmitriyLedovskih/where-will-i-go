@@ -1,0 +1,6 @@
+.two-columns {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  margin: 150px 0 0;
+}

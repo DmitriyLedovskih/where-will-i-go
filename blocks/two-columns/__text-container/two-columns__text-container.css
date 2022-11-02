@@ -1,0 +1,6 @@
+.two-columns__text-container {
+  background-color: #F2F2F2;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
