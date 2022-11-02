@@ -28,3 +28,6 @@
 @import url(../blocks/two-columns/__paragraphs/two-columns__paragraphs.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__img-container/two-columns__img-container.css);
+/* Footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__year/footer__year.css);

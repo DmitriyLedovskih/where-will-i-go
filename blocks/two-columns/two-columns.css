@@ -2,5 +2,6 @@
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
-  margin: 150px 0 0;
+  margin: 110px 0 0;
+  font-family: 'Vremena Grotesk';
 }
