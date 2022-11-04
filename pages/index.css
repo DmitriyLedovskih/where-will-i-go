@@ -34,6 +34,15 @@
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__img-container/two-columns__img-container.css);
 @import url(../blocks/two-columns/__img-container/_flipped/two-columns__img-container_flipped.css);
+/* About Travel */
+@import url('../blocks/about-travel/about-travel.css');
+@import url('../blocks/about-travel/__title/about-travel__title.css');
+@import url('../blocks/about-travel/__text/about-travel__text.css');
+/* Table */
+@import url('../blocks/table/table.css');
+@import url('../blocks/table/__cell/table__cell.css');
+@import url('../blocks/table/__title/table__title.css');
+@import url('../blocks/table/__text/table__text.css');
 /* Footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__container/footer__cintainer.css);

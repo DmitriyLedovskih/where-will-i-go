@@ -1,0 +1,9 @@
+.about-travel {
+  padding: 165px 0;
+}
+
+@media screen and (max-width: 565px) {
+  .about-travel {
+    padding: 40px 0;
+  }
+}
