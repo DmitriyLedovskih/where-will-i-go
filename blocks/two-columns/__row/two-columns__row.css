@@ -1,4 +1,12 @@
 .two-columns__row {
   display: grid;
   grid-template-columns: 1fr 1fr;
+  grid-template-areas: "left right";
+}
+
+@media screen and (max-width:473px) {
+  .two-columns__row {
+    display: flex;
+    flex-direction: column;
+  }
 }

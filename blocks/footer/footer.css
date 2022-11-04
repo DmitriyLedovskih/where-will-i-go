@@ -1,0 +1,13 @@
+.footer {
+  background-color: #fecda7;
+  min-height: 45vw;
+  display: flex;
+}
+
+/* 
+
+@media screen and (max-width:473px) {
+  .footer {
+    min-height: 300px;
+  }
+} */

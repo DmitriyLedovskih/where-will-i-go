@@ -26,9 +26,15 @@
 /* Two-columns */
 @import url(../blocks/two-columns/two-columns.css);
 @import url(../blocks/two-columns/__text-container/two-columns__text-container.css);
+@import url(../blocks/two-columns/__text-container/_flipped/two-columns__text-container_flipped.css);
 @import url(../blocks/two-columns/__row/two-columns__row.css);
 @import url(../blocks/two-columns/__img/two-columns__img.css);
 @import url(../blocks/two-columns/__heading/two-column__heading.css);
 @import url(../blocks/two-columns/__paragraphs/two-columns__paragraphs.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__img-container/two-columns__img-container.css);
+@import url(../blocks/two-columns/__img-container/_flipped/two-columns__img-container_flipped.css);
+/* Footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__container/footer__cintainer.css);
+@import url(../blocks/footer/__year/footer__year.css);
