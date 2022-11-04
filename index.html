@@ -28,6 +28,9 @@
           </li>
         </ul>
       </nav>
+      <div class="header__burger">
+        <span class="header__burger-line"></span>
+      </div>
     </div>
   </header>
   <main class="content">
@@ -36,7 +39,7 @@
         <div class="intro__row">
           <div class="intro__content">
             <p class="main-text intro__text">Куда я поеду</p>
-            <h1 class="title intro__title">Куда я&nbsp;поеду сразу, как можно будет куда-то поехать</h1>
+            <h1 class="main-title intro__title">Куда я&nbsp;поеду сразу, как можно будет куда&nbsp;-&nbsp;то поехать</h1>
           </div>
           <img src="./images/intro-image.jpeg" alt="" class="intro__image">
         </div>
@@ -93,6 +96,12 @@
       </article>
     </section>
   </main>
+  <script>
+    document.querySelector('.header__burger').addEventListener('click', function() {
+    document.querySelector('.header__burger-line').classList.toggle('header__burger-line_active');
+    document.querySelector('.header__navigation').classList.toggle('header__navigation_active');
+}, false);
+  </script>
 </body>
 
 </html>

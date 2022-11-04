@@ -1,3 +1,9 @@
 .intro__content {
-  max-width: 480px;
+  max-width: 610px;
+}
+
+@media screen and (max-width: 800px) {
+  .intro__content {
+    text-align: center;
+  }
 }

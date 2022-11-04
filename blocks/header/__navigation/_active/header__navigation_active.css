@@ -1,0 +1,5 @@
+.header__navigation_active {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}

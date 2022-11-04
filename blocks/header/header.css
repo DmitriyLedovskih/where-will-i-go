@@ -1,3 +1,10 @@
 .header {
   padding: 50px 0;
+  position: relative;
+}
+
+@media screen and (max-width: 465px) {
+  .header {
+    padding: 15px 0;
+  }
 }

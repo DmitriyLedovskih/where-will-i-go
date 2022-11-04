@@ -2,6 +2,9 @@
   text-decoration: none;
   color: #010101;
   position: relative;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
 }
 
 .header__menu-link::before {

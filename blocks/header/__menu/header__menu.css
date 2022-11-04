@@ -5,3 +5,10 @@
   margin: 0;
   padding: 0;
 }
+
+@media screen and (max-width: 465px) {
+  .header__menu {
+    flex-direction: column;
+    padding: 10px;
+  }
+}

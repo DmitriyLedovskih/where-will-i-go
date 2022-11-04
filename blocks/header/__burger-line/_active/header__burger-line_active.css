@@ -1,0 +1,14 @@
+.header__burger-line_active {
+  width: 0;
+  height: 0;
+}
+
+.header__burger-line_active::before {
+  transform: rotate(45deg);
+  top: 50%;
+}
+
+.header__burger-line_active::after {
+  transform: rotate(-45deg);
+  top: 50%;
+}
