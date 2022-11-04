@@ -1,4 +1,12 @@
 .footer__year {
   margin: auto;
-  font-size: 54px;
+  font-weight: 700;
+  font-size: 38px;
+  font-family: 'Inter', Arial, Helvetica, sans-serif;
+}
+
+@media screen and (max-width:473px) {
+  .footer__year {
+    font-size: 24px;
+  }
 }

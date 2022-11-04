@@ -1,3 +1,22 @@
 .two-columns__img-container {
   max-width: 720px;
+  height: 600px;
+}
+
+@media screen and (max-width: 955px) {
+  .two-columns__img-container {
+    height: 500px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .two-columns__img-container {
+    height: 460px;
+  }
+}
+
+@media screen and (max-width:473px) {
+  .two-columns__img-container {
+    height: 350px;
+  }
 }

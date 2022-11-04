@@ -1,9 +1,5 @@
 .two-columns__img {
   object-fit: cover;
   width: 100%;
-  max-height: 600px;
-}
-
-.two-columns__img:last-child {
-  min-height: 600px;
+  height: 100%;
 }
