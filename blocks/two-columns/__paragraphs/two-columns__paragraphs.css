@@ -15,7 +15,7 @@
   }
 }
 
-@media screen and (max-width:473px) {
+@media screen and (max-width:563px) {
   .two-columns__paragraphs {
     margin: 40px 15px 20px;
   }
