@@ -4,4 +4,9 @@
   width: 100%;
   object-fit: cover;
   margin: 0 auto;
+  transition: transform .3s;
+}
+
+.intro__image:hover {
+  transform: scale(0.9) rotate(-5deg);
 }
