@@ -1,6 +1,6 @@
 # Куда бы я поехал
  
-## [Ссылка на проект]()
+## [Ссылка на проект](https://dmitriyledovskih.github.io/where-will-i-go/index.html)
 
 ### Обзор
 * Участники
