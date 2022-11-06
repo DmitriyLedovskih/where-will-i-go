@@ -7,7 +7,7 @@
   align-items: center;
 }
 
-@media screen and (max-width: 465px) {
+@media screen and (max-width: 563px) {
   .header__burger {
     display: flex;
   }
