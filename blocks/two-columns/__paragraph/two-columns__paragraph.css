@@ -22,8 +22,3 @@
     margin: 0 0 10px;
   }
 }
-
-@media screen and (max-width:473px) {
-  .two-columns__paragraph {
-    margin: 0 0 10px;
-  }
