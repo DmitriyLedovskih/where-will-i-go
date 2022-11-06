@@ -2,5 +2,5 @@
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
-  font-family: 'Inter';
+  font-family: 'Inter' Arial, Helvetica, sans-serif;
 }
