@@ -3,3 +3,16 @@
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 30px;
 }
+
+
+@media screen and (max-width:1187px) {
+  .table {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media screen and (max-width:563px) {
+  .table {
+    grid-template-columns: 1fr;
+  }
+}
