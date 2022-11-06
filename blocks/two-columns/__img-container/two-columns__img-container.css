@@ -1,6 +1,7 @@
 .two-columns__img-container {
   max-width: 720px;
   height: 600px;
+  overflow: hidden;
 }
 
 @media screen and (max-width: 955px) {
